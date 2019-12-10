@@ -5,9 +5,10 @@ import Todo from "./Todo";
 import Fondle from "./Fondle";
 import Account from "./Account";
 import Mansion from "./Mansion";
+import Movies from "./Movies";
 
 const App = () => {
-  return <Mansion />;
+  return <Movies />;
 };
 
 export default App;
