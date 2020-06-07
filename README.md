@@ -1,3 +1,3 @@
-# Ekiti React Native Training
+# React Native App with expo
 
 Source files for the each training day.
